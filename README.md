@@ -1,6 +1,8 @@
 # CowAR71xx
 cow for openwrt on AR71xx
 
+去下载cow_openwrt，传入AR71xx的openwrt路由器的/root目录，编辑/root/.cow/rc，执行“./cow”。Enjoy！
+
 //下载go-mips32源 
 git clone https://github.com/gomini/go-mips32.git 
 cd go-mips32/src
